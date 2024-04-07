@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Us
+
+  We are a US based technology consulting company, founded in 2024.
+content: >
+  ### We design and build AI engineering and operations products.
+  
+  We have experience in working with a variety of clients, including public and private sector, 
+  start ups , universities and large multinational companies.
+  Our focus is on high value product and software engineering, using professional communication.
+  All our engineers and data scientists are experienced experts with 10+ years' in the industry 
+button1Name: Get in touch
+# button2Name: Download CV
+button1Target: contact
+# button2Target: contact
+image: images/about/about-img.jpg
