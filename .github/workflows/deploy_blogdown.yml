@@ -9,7 +9,7 @@ name: bluestack
 
 jobs:
   blogdown:
-    name: Render-BlueStack_site
+    name: Render-BlueStack-site
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1

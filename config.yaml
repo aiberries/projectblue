@@ -1,4 +1,4 @@
-baseURL: https://bluestack.com
+baseURL: bluestack
 languageCode: en-us
 paginate: 6
 theme: portio-hugo
