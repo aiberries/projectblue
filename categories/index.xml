@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blue Stack</title>
+    <link>bluestack/categories/</link>
+    <description>Recent content in Categories on Blue Stack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="bluestack/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>bluestack/categories/r/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>bluestack/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>bluestack/categories/blog/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      <guid>bluestack/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>bluestack/categories/documentation/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      <guid>bluestack/categories/documentation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
