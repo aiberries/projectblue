@@ -1,8 +1,8 @@
 baseURL = "projectblue"
 languageCode = "en-us"
 paginate = 6
-theme = "portio"
-title = "Portio"
+theme = "portio-hugo"
+title = "Project Blue"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 # Main Menu
 [[menu.main]]
