@@ -1,10 +1,10 @@
 ---
-categories: blog
-date: "2020-07-13T12:49:27+06:00"
+title: "World's Most Famous App Developers and Designers"
+date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-1.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: fun
-title: World's Most Famous App Developers and Designers
+categories: blog
 toc: true
 ---
 

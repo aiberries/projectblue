@@ -1,10 +1,10 @@
 ---
-categories: documentation
-date: "2020-07-13T12:49:27+06:00"
+title: "How to become acreative designer"
+date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: fun
-title: How to become acreative designer
+categories: documentation
 toc: true
 ---
 

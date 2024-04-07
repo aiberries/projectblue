@@ -3,19 +3,43 @@ enable: true
 topTitle: Working Area
 title: >
   ## Creative Services
-  
-  Some of the areas we work in:
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
 service:
   - content: >
-      #### Full Stack AIOps  
+      #### UI/UX Design 
 
-      We have consultants and engineers to help build frontend, backend and ops in an AGILE way.
-      We are open to developent stacks covering deployments for both intel and nvidia based stacks on premise or cloud.
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
-
   - content: >
-      #### AI and Data-science
-      
-      We actively help our clients get better at decision making using the the predictions from the AI we create.
-      We also help them with GenAI and ComputerVision tasks to take care of their ETL and Dashboard needs.
+      #### Web Development 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg
+  - content: >
+      #### Creative Design 
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
+  - content: >
+      #### Branding
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/branding.svg
+  - content: >
+      #### UI/UX Design
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/service/web.svg

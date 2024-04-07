@@ -2,18 +2,19 @@
 enable: true
 topTitle: About
 title: >
-  ## About Us
+  ## About me
 
-  We are a US based technology consulting company, founded in 2024.
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
 content: >
-  ### We design and build AI engineering and operations products.
-  
-  We have experience in working with a variety of clients, including public and private sector, 
-  start ups , universities and large multinational companies.
-  Our focus is on high value product and software engineering, using professional communication.
-  All our engineers and data scientists are experienced experts with 10+ years' in the industry 
-button1Name: Get in touch
-# button2Name: Download CV
+  ### I design and build ultimate things.
+
+  I love to work in User Experience & User Interface designing. Because I love
+  to solve the design problem and find easy and better solutions to solve it. I always
+  try my best to make good user interface with the best user experience. I have been
+  working as a Visual designer from.
+button1Name: Hire me
+button2Name: Download CV
 button1Target: contact
-# button2Target: contact
+button2Target: contact
 image: images/about/about-img.jpg
